@@ -104,7 +104,7 @@ This system helps e‑commerce platforms:
 
 ##  Author
 
-**Chandana T S**
+**Poornima C B**
 Computer Science Student | Machine Learning & AI Enthusiast
 
 ---
